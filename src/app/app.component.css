@@ -1,0 +1,15 @@
+
+.tile {
+  margin-right: 4px;
+  width: 4vh;
+  height: 4vh;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+.container {
+  padding-top: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
